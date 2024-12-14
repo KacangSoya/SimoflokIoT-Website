@@ -135,8 +135,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any questions or support, feel free to reach out:
 
-- **Email:** [your-email@example.com](mailto\:your-email@example.com)
-- **GitHub:** [yourusername](https://github.com/yourusername)
+- **Email:** [habibsulaiman816@gmail.com](mailto\:habibsulaiman816@gmail.com)
+- **GitHub:** [KacangSoya](https://github.com/KacangSoya)
 
 ---
 
