@@ -97,13 +97,13 @@ Simoflok is a web application designed for monitoring IoT devices in biofloc fis
 ## Screenshots
 
 1. **Dashboard**:
-
+   ![Alt Text](images/dashboard.PNG)
 
 2. **Detailed Data Page**:
-
-
+   ![Alt Text](images/detail_data.PNG)
+   
 3. **Reports**:
-
+   ![Alt Text](images/laporan.PNG)
 
 ---
 
